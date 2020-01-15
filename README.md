@@ -3,6 +3,8 @@
 A simple Vue State Management using Vuex
 CrashCourse made by [DesignCourse](https://www.youtube.com/user/DesignCourse)
 
+To see the full tutorial, click [here](https://coursetro.com/posts/code/144/A-Vuex-Tutorial-by-Example---Learn-Vue-State-Management)
+
 ## Output as Summary of what you get
 home
 ![img-home][img-home]
